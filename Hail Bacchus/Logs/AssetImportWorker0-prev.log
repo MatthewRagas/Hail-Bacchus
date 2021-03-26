@@ -1,0 +1,284 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mjrag/Desktop/Hail_Bacchus/Hail-Bacchus/Hail Bacchus
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62920
+Successfully changed project path to: C:/Users/mjrag/Desktop/Hail_Bacchus/Hail-Bacchus/Hail Bacchus
+C:/Users/mjrag/Desktop/Hail_Bacchus/Hail-Bacchus/Hail Bacchus
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mjrag/Desktop/Hail_Bacchus/Hail-Bacchus/Hail Bacchus/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003637 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.449 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.579000 ms (FindLiveObjects: 0.150700 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.337000 ms  DeleteObjects: 0.063000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94a656cd9f6fe0f83712142224509f7') in 0.126934 seconds
+  Import took 0.129403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.795423 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cdffc6a3d6d869437ce11a2fe07647') in 0.026251 seconds
+  Import took 0.029946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.426594 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13dd05ca7eb80969862ff3e89c4d4beb') in 0.023914 seconds
+  Import took 0.026697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.591216 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f40d4de325cebad62370868b297a43') in 0.019296 seconds
+  Import took 0.021976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.040995 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318737de26299bcdaf6f2badeeec8a26') in 0.019023 seconds
+  Import took 0.021781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.788889 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1c5b7d20f7ccc1f66f57dfd42e5995') in 0.020127 seconds
+  Import took 0.022823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.682117 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eaa674202ac828bbb9a805b4b6f91e5') in 0.020323 seconds
+  Import took 0.023012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.835234 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f79fc82c2e655358f116c9d85ed30a3') in 0.021802 seconds
+  Import took 0.024648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.739429 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71296893b55abd4aa34edce236165a0') in 0.021152 seconds
+  Import took 0.024040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.120242 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52eda07950d3c9c650517f391c0fbd89') in 0.024987 seconds
+  Import took 0.027700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.442678 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c847d722d004f669171bca00c09559f') in 0.024579 seconds
+  Import took 0.027434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.335989 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ed0b31ccea74178cbb492022a6e4fa') in 0.021900 seconds
+  Import took 0.024688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.381178 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd09e5eb23cfe6520b19b97435197ffa2') in 0.023458 seconds
+  Import took 0.026507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.683699 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bdd3d51fbfa841da37ece83a780bad') in 0.024749 seconds
+  Import took 0.027563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.215615 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2628827ecf0309318e3893c9c1d5709e') in 0.029544 seconds
+  Import took 0.032874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.299076 seconds.
+  path: Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab
+  artifactKey: Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Vintage_Streetcar/Prefabs/streetcar.prefab using Guid(07b3597cdd611134f80753f1e678402f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c77eca57385781a0e2b6bbb6ead82c1') in 0.025025 seconds
+  Import took 0.027852 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 1.561900 ms (FindLiveObjects: 0.152400 ms CreateObjectMapping: 0.026100 ms MarkObjects: 1.366300 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.626600 ms (FindLiveObjects: 0.148000 ms CreateObjectMapping: 0.025200 ms MarkObjects: 1.436300 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.766 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 1.581600 ms (FindLiveObjects: 0.158900 ms CreateObjectMapping: 0.027300 ms MarkObjects: 1.380400 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
