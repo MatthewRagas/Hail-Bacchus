@@ -4,14 +4,19 @@ using UnityEngine;
 
 public class GameTrigger : MonoBehaviour
 {
-
+    public Camera trollyCamera;
+    public Camera playerCamera;
     public GameObject player;
     public GameObject streetCar;
 
     // Start is called before the first frame update
     void Start()
     {
+       trollyCamera.enabled = true;
+       //trollyCamera.GetComponent(typeof(AudioListener)).enabled = true;
         
+       playerCamera.enabled = false;
+       //playerCamera.GetComponent(typeof(AudioListener)).enabled = false;
     }
 
     // Update is called once per frame
@@ -34,13 +39,11 @@ public class GameTrigger : MonoBehaviour
 
         //Teleports player to car exit point
         player = GameObject.Find("PlayerFBody");
-        player.transform.position = new Vector3(4, 0, 17.5f);
+        player.transform.position = new Vector3(4, 0, 17.5f);       
 
-        GameObject playerCamera = GameObject.Find("PlayerFBody/Female/PlayerCamera");
-        playerCamera.enabled = true;
-
-        GameObject trollyCamera = GameObject.Find("streetcar/TrollyCamera");
+        //switches active cameras
         trollyCamera.enabled = false;
+        playerCamera.enabled = true;
 
         //Teleports invis back wall to stop car from rolling backwards
         GameObject invisWall = GameObject.Find("Invis Back Wall");
